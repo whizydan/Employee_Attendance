@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/jackson-annotations-2.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/gradle-wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/jackson-databind-2.7.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/jackson-core-2.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/servlet-api-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/okhttp-3.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/org.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/catalyst-java-sdk-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/mysql-connector-j-8.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/okio-1.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/catalyst-function-sdk-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
